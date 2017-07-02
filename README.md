@@ -1,7 +1,7 @@
 # Supported tags and respective `Dockerfile` links
 
-  * [`1`, `1.7`, `1.7.0`, `latest`](https://github.com/alexei-led/docker-kube-shell/blob/master/Dockerfile) [![](https://images.microbadger.com/badges/image/alexeiled/kubeshell.svg)](https://microbadger.com/images/alexeiled/kubeshell "Get your own image badge on microbadger.com")
-  * [`1.6`, `1.6.4`](https://github.com/alexei-led/docker-kube-shell/blob/master/Dockerfile) [![](https://images.microbadger.com/badges/image/alexeiled/kubeshell.svg)](https://microbadger.com/images/alexeiled/kubeshell "Get your own image badge on microbadger.com")
+  * [`1`, `1.7`, `1.7.0`, `latest`](https://github.com/alexei-led/docker-kube-shell/blob/master/Dockerfile) [![](https://images.microbadger.com/badges/image/alexeiled/kubeshell:1.7.svg)](https://microbadger.com/images/alexeiled/kubeshell "Get your own image badge on microbadger.com")
+  * [`1.6`, `1.6.4`](https://github.com/alexei-led/docker-kube-shell/blob/master/Dockerfile) [![](https://images.microbadger.com/badges/image/alexeiled/kubeshell:1.6.svg)](https://microbadger.com/images/alexeiled/kubeshell "Get your own image badge on microbadger.com")
   
 ## What is `kube-shell`
 
